@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Yassine Harrak
+## 👋 Hello! I'm Yasser Harrak
 🎓 I'm a third-year software engineering student  
 💻 Passionate about web development, especially front-end with React  
 🚀 Currently doing an internship building a document management system
